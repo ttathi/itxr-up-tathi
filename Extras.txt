@@ -1,4 +1,0 @@
--4 light colors: White, Red, Green and Blue
--"Testdoll"
--Window
--The titan

@@ -22,7 +22,7 @@ public class Breakout : MonoBehaviour
 
             inRoom = !inRoom;
 
-            if (inRoom) transform.position = new Vector3(0, 1, 0);
+            if (inRoom) transform.position = new Vector3(0, 0, 0);
             else transform.position = new Vector3(-20, 5, -35);
 
         };
